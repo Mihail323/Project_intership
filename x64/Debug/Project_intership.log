@@ -1,0 +1,3 @@
+﻿  Project_intership.cpp
+E:\Intership\Project_intership\Project_intership.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project_intership.vcxproj -> E:\Intership\Project_intership\x64\Debug\Project_intership.exe
